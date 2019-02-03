@@ -4,21 +4,23 @@ import PropTypes from 'prop-types'
 export class TodoItem extends Component {
   getStyle = () => {
     return {
-      textDecoration: this.props.todo.completed ? 'line-through' : 'none'
+      textDecoration: this.props.todo.completed ? 'line-through' : 'none',
+      padding: '6px',
+      textAlign: 'center'
     }
   }
   render () {
     const { id, title, completed } = this.props.todo
     return (
       <div className='list-group-item'>
-        <div className='d-flex justify-content-between mb-3'>
+        <div className='d-flex justify-content-between align-items-center'>
           <input
             style={checkboxStyle}
             type='checkbox'
             onChange={this.props.toggleComplete.bind(this, id)}
             checked={completed}
           />
-          <h4 style={this.getStyle()}>{title}</h4>
+          <h5 style={this.getStyle()}>{title}</h5>
           <button
             type='button'
             className='btn btn-danger btn-sm'
@@ -34,7 +36,9 @@ export class TodoItem extends Component {
 }
 
 TodoItem.prototypes = {
-  todo: PropTypes.object.isRequired
+  todo: PropTypes.object.isRequired,
+  toggleComplete: PropTypes.func.isRequired,
+  deleteTodo: PropTypes.func.isRequired
 }
 
 const checkboxStyle = {

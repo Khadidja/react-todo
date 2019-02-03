@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import PropTypes from 'prop-types'
 export class AddTodo extends Component {
   state = {
     title: ''
@@ -29,6 +29,10 @@ export class AddTodo extends Component {
       </form>
     )
   }
+}
+
+AddTodo.prototypes = {
+  addTodo: PropTypes.func.isRequired
 }
 
 export default AddTodo
