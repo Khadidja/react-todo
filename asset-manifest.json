@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-todo/static/css/main.29409df0.chunk.css",
-  "main.js": "/react-todo/static/js/main.e246d97e.chunk.js",
-  "main.js.map": "/react-todo/static/js/main.e246d97e.chunk.js.map",
-  "static/js/1.05406675.chunk.js": "/react-todo/static/js/1.05406675.chunk.js",
-  "static/js/1.05406675.chunk.js.map": "/react-todo/static/js/1.05406675.chunk.js.map",
-  "runtime~main.js": "/react-todo/static/js/runtime~main.5bee33ad.js",
-  "runtime~main.js.map": "/react-todo/static/js/runtime~main.5bee33ad.js.map",
-  "static/css/main.29409df0.chunk.css.map": "/react-todo/static/css/main.29409df0.chunk.css.map",
-  "index.html": "/react-todo/index.html",
-  "precache-manifest.236df833257affdbfab1adb1eb34144b.js": "/react-todo/precache-manifest.236df833257affdbfab1adb1eb34144b.js",
-  "service-worker.js": "/react-todo/service-worker.js"
+  "main.css": "https://khadidja.github.io/react-todo/static/css/main.29409df0.chunk.css",
+  "main.js": "https://khadidja.github.io/react-todo/static/js/main.5ecf09de.chunk.js",
+  "main.js.map": "https://khadidja.github.io/react-todo/static/js/main.5ecf09de.chunk.js.map",
+  "static/js/1.05406675.chunk.js": "https://khadidja.github.io/react-todo/static/js/1.05406675.chunk.js",
+  "static/js/1.05406675.chunk.js.map": "https://khadidja.github.io/react-todo/static/js/1.05406675.chunk.js.map",
+  "runtime~main.js": "https://khadidja.github.io/react-todo/static/js/runtime~main.a886cf60.js",
+  "runtime~main.js.map": "https://khadidja.github.io/react-todo/static/js/runtime~main.a886cf60.js.map",
+  "static/css/main.29409df0.chunk.css.map": "https://khadidja.github.io/react-todo/static/css/main.29409df0.chunk.css.map",
+  "index.html": "https://khadidja.github.io/react-todo/index.html",
+  "precache-manifest.4fea64a28175ba2460d1503ac62c1074.js": "https://khadidja.github.io/react-todo/precache-manifest.4fea64a28175ba2460d1503ac62c1074.js",
+  "service-worker.js": "https://khadidja.github.io/react-todo/service-worker.js"
 }
