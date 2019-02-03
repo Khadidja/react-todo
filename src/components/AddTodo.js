@@ -12,8 +12,8 @@ export class AddTodo extends Component {
   }
   render () {
     return (
-      <form className='form-inline' onSubmit={this.addTodo}>
-        <div className='input-group mb-2 mr-sm-2'>
+      <form className='input-group lg-3' onSubmit={this.addTodo}>
+        <div className='input-group input-group-lg'>
           <input
             type='text'
             className='form-control'
