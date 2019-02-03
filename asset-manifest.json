@@ -1,13 +1,13 @@
 {
   "main.css": "https://khadidja.github.io/react-todo/static/css/main.29409df0.chunk.css",
-  "main.js": "https://khadidja.github.io/react-todo/static/js/main.035f9e49.chunk.js",
-  "main.js.map": "https://khadidja.github.io/react-todo/static/js/main.035f9e49.chunk.js.map",
+  "main.js": "https://khadidja.github.io/react-todo/static/js/main.29687fe3.chunk.js",
+  "main.js.map": "https://khadidja.github.io/react-todo/static/js/main.29687fe3.chunk.js.map",
   "static/js/1.05406675.chunk.js": "https://khadidja.github.io/react-todo/static/js/1.05406675.chunk.js",
   "static/js/1.05406675.chunk.js.map": "https://khadidja.github.io/react-todo/static/js/1.05406675.chunk.js.map",
   "runtime~main.js": "https://khadidja.github.io/react-todo/static/js/runtime~main.a886cf60.js",
   "runtime~main.js.map": "https://khadidja.github.io/react-todo/static/js/runtime~main.a886cf60.js.map",
   "static/css/main.29409df0.chunk.css.map": "https://khadidja.github.io/react-todo/static/css/main.29409df0.chunk.css.map",
   "index.html": "https://khadidja.github.io/react-todo/index.html",
-  "precache-manifest.a652f4a18ca8e6d6e311ad4f560fa7b4.js": "https://khadidja.github.io/react-todo/precache-manifest.a652f4a18ca8e6d6e311ad4f560fa7b4.js",
+  "precache-manifest.832aad35a50c16233fec0ae60d7f7c9a.js": "https://khadidja.github.io/react-todo/precache-manifest.832aad35a50c16233fec0ae60d7f7c9a.js",
   "service-worker.js": "https://khadidja.github.io/react-todo/service-worker.js"
 }
